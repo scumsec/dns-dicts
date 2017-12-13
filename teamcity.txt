@@ -1,0 +1,15 @@
+bildbo
+build
+builds
+buildserver
+ci
+ci-master
+gothmog
+pachamama
+rdbuild
+tc
+tc-current
+tc1
+teamcity
+teamcity01
+vsr
