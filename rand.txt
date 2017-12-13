@@ -1,0 +1,7 @@
+owa
+owncloud
+cloud
+mail
+webmail
+ftp
+webftp
